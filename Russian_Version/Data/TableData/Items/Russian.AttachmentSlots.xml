@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ATTACHMENTSLOTLIST>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>0</uiSlotIndex>
@@ -6,102 +6,102 @@
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>1</uiSlotIndex>
-		<szSlotName>Emplacement 1</szSlotName>		
+		<szSlotName>Default slot 1</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>2</uiSlotIndex>
-		<szSlotName>Emplacement 2</szSlotName>		
+		<szSlotName>Default slot 2</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>3</uiSlotIndex>
-		<szSlotName>Emplacement 3</szSlotName>		
+		<szSlotName>Default slot 3</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>4</uiSlotIndex>
-		<szSlotName>Emplacement 4</szSlotName>		
+		<szSlotName>Default slot 4</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>5</uiSlotIndex>
-		<szSlotName>Accessoire Canon</szSlotName>		
+		<szSlotName>Barrel Attachments</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>6</uiSlotIndex>
-		<szSlotName>Accessoire Laser</szSlotName>		
+		<szSlotName>Laser Attachments</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>7</uiSlotIndex>
-		<szSlotName>Accessoire Viseur</szSlotName>		
+		<szSlotName>Sight Attachments</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>8</uiSlotIndex>
-		<szSlotName>Accessoire Lunette</szSlotName>		
+		<szSlotName>Scope Attachments</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>9</uiSlotIndex>
-		<szSlotName>Accessoire Crosse</szSlotName>		
+		<szSlotName>Stock Attachments</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>10</uiSlotIndex>
-		<szSlotName>Accessoire Munition</szSlotName>		
+		<szSlotName>Ammo Attachments</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>11</uiSlotIndex>
-		<szSlotName>Accessoire Internes</szSlotName>		
+		<szSlotName>Internal Attachments</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>12</uiSlotIndex>
-		<szSlotName>Accessoire Externe 1</szSlotName>		
+		<szSlotName>External Attachments 1</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>13</uiSlotIndex>
-		<szSlotName>Accessoire sous canon</szSlotName>		
+		<szSlotName>Underbarrel Attachments</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>14</uiSlotIndex>
-		<szSlotName>Grenade Fusil</szSlotName>		
+		<szSlotName>Rifle Grenade</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>15</uiSlotIndex>
-		<szSlotName>Accessoire Roquette</szSlotName>		
+		<szSlotName>Rocket Launcher Slot</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>16</uiSlotIndex>
-		<szSlotName>Grenade Fusil</szSlotName>		
+		<szSlotName>Rifle Grenade</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>17</uiSlotIndex>
-		<szSlotName>Grenade Fusil</szSlotName>		
+		<szSlotName>Rifle Grenade</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>18</uiSlotIndex>
-		<szSlotName>Grenade Fusil</szSlotName>		
+		<szSlotName>Rifle Grenade</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>19</uiSlotIndex>
-		<szSlotName>Grenade Fusil</szSlotName>		
+		<szSlotName>Rifle Grenade</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>20</uiSlotIndex>
-		<szSlotName>Grenade Fusil</szSlotName>		
+		<szSlotName>Rifle Grenade</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>21</uiSlotIndex>
-		<szSlotName>Grenade Fusil</szSlotName>		
+		<szSlotName>Rifle Grenade</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>22</uiSlotIndex>
-		<szSlotName>Accessoire Roquette</szSlotName>		
+		<szSlotName>Rocket Launcher Slot</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>23</uiSlotIndex>
-		<szSlotName>Accessoire Roquette</szSlotName>		
+		<szSlotName>Rocket Launcher Slot</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>24</uiSlotIndex>
-		<szSlotName>Accessoire Roquette</szSlotName>		
+		<szSlotName>Rocket Launcher Slot</szSlotName>		
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>25</uiSlotIndex>
-		<szSlotName>Accessoire Roquette</szSlotName>		
+		<szSlotName>Rocket Launcher Slot</szSlotName>		
 	</ATTACHMENTSLOT>
 </ATTACHMENTSLOTLIST>
