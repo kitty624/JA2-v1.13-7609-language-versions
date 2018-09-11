@@ -1718,15 +1718,15 @@
 	<!-- Mouse -->
 	<BACKGROUND>
 		<uiIndex>245</uiIndex>
-		<szName>Mime</szName>
-		<szShortName>Mime</szShortName>
+		<szName>哑巴</szName>
+		<szShortName>哑巴</szShortName>
 		<szDescription>...</szDescription>
 	</BACKGROUND>
 	<!-- Hector -->
 	<BACKGROUND>
 		<uiIndex>246</uiIndex>
-		<szName>South American</szName>
-		<szShortName>South American</szShortName>
+		<szName>南美洲人</szName>
+		<szShortName>南美洲人</szShortName>
 		<szDescription>...</szDescription>
 	</BACKGROUND>
 	<!-- Rev -->

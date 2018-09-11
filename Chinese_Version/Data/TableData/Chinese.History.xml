@@ -14,7 +14,7 @@
   </TEXT>
   <TEXT>
     <uiIndex>3</uiIndex>
-    <sHistory>%s死了。",	//"%s died.</sHistory>
+    <sHistory>%s死了。</sHistory>
   </TEXT>
   <TEXT>
     <uiIndex>4</uiIndex>
@@ -238,7 +238,7 @@
   </TEXT>
   <TEXT>
     <uiIndex>59</uiIndex>
-    <sHistory>s赢了拳击赛</sHistory>
+    <sHistory>%s赢了拳击赛</sHistory>
   </TEXT>
   <TEXT>
     <uiIndex>60</uiIndex>
@@ -314,10 +314,10 @@
   </TEXT>
   <TEXT>
     <uiIndex>78</uiIndex>
-    <sHistory>碰到了 Waldo - 飞机机械师。</sHistory>
+    <sHistory>碰到了Waldo飞机机械师。</sHistory>
   </TEXT>
   <TEXT>
     <uiIndex>79</uiIndex>
-    <sHistory>直升机维修开始. 预计时间: %d 小时(s)。</sHistory>
+    <sHistory>直升机维修开始。预计时间: %d小时(s)。</sHistory>
   </TEXT>
 </STRINGS>

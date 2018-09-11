@@ -738,7 +738,7 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<Name>None</Name>
 		<LongName></LongName>
 		<ShortName></ShortName>
-		</VEHICLE>
+	</VEHICLE>
 	<VEHICLE>
 		<uiIndex>120</uiIndex>
 		<Name>None</Name>
@@ -979,30 +979,36 @@ VehicleArmourType:  uiIndex from TableData\Items.xml
 		<LongName></LongName>
 		<ShortName></ShortName>
 	</VEHICLE>
+	<!-- Hummer -->
 	<VEHICLE>
 		<uiIndex>160</uiIndex>
 		<Name>Hummer</Name>
 		<LongName>悍马</LongName>
 		<ShortName>悍马</ShortName>
 	</VEHICLE>
+	<!-- El Dorado -->
 	<VEHICLE>
 		<uiIndex>161</uiIndex>
 		<Name>Eldorado</Name>
 		<LongName>凯迪拉克</LongName>
 		<ShortName>凯迪拉克</ShortName>
 	</VEHICLE>
+	<!-- Ice cream truck -->
 	<VEHICLE>
 		<uiIndex>162</uiIndex>
 		<Name>Truck</Name>
 		<LongName>冰激凌卡车</LongName>
 		<ShortName>卡车</ShortName>
 	</VEHICLE>
+	<!-- Add only one helicopter -->
+	<!-- Helicopter -->
 	<VEHICLE>
 		<uiIndex>163</uiIndex>
 		<Name>Heli</Name>
 		<LongName>直升机</LongName>
 		<ShortName>直升机</ShortName>
 	</VEHICLE>
+	<!-- this record used all enemy tanks ?? -->
 	<VEHICLE>
 		<uiIndex>164</uiIndex>
 		<Name>Tank</Name>

@@ -55,7 +55,7 @@
 		<pName>AR弹匣包</pName>
 		<popup>
 			<subMenu>
-				<name>手雷/榴弹</name>
+				<name>手雷或榴弹</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
@@ -164,7 +164,7 @@
 			</subMenu>
 
 			<subMenu>
-				<name>手雷/榴弹</name>
+				<name>手雷或榴弹</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
@@ -204,7 +204,7 @@
 			</subMenu>
 
 			<subMenu>
-				<name>手雷/榴弹</name>
+				<name>手雷或榴弹</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
@@ -224,7 +224,7 @@
 			</subMenu>
 
 			<subMenu>
-				<name>手雷/榴弹</name>
+				<name>手雷或榴弹</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
@@ -251,7 +251,7 @@
 		<pName>小口袋</pName>
 		<popup>
 			<subMenu>
-				<name>手雷/榴弹</name>
+				<name>手雷或榴弹</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
@@ -279,7 +279,7 @@
 		<pName>大口袋</pName>
 		<popup>
 			<subMenu>
-				<name>手雷/榴弹</name>
+				<name>手雷或榴弹</name>
 				<generator>
 					<id>addGrenades</id>
 				</generator>
