@@ -1,6 +1,6 @@
 # JA2v1.13-7609-language-versions
 
-- been migrated from svn on 11.11.2022 (based on https://ja2svn.mooo.com/source/ja2/branches/ja2_data_language_official_2014)
+- been migrated from svn to gitHub on 11.11.2022 (based on https://ja2svn.mooo.com/source/ja2/branches/ja2_data_language_official_2014)
 
 - latest commit before migration from scn to gitHub  was on Sep 11, 2018
 
