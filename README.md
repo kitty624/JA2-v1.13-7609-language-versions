@@ -4,3 +4,4 @@
 
 - adjustments to GameDir for different language versions of JA2 v1.13 7609 a.k.a. stable version a..k.a. official 2014
 
+- most available mods for the 7609 version of 1.13 are in english, use the language versions here only with them if you know what you do
