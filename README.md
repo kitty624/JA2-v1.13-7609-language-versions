@@ -4,7 +4,7 @@
 
 - been migrated from svn to gitHub on 11.11.2022 (based on https://ja2svn.mooo.com/source/ja2/branches/ja2_data_language_official_2014)
 
-- latest commit before migration from scn to gitHub  was on Sep 11, 2018
+- latest commit before migration from svn to gitHub  was on Sep 11, 2018
 
 - adjustments to GameDir for different language versions of JA2 v1.13 7609 a.k.a. stable version a..k.a. official 2014
 
